@@ -1,1 +1,2 @@
 # Git-exam
+git init
